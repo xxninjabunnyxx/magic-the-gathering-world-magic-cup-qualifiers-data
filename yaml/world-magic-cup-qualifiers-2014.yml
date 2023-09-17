@@ -1,0 +1,126 @@
+---
+object: card
+id: 27153f2f-998d-42ce-a718-ee08412ba0f6
+oracle_id: 4304035c-c3e4-4a19-aa1f-92a83d8aed1f
+multiverse_ids: []
+tcgplayer_id: 90868
+cardmarket_id: 268779
+name: Geist of Saint Traft
+lang: en
+released_at: '2014-08-16'
+uri: https://api.scryfall.com/cards/27153f2f-998d-42ce-a718-ee08412ba0f6
+scryfall_uri: https://scryfall.com/card/wmc/2014/geist-of-saint-traft?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/2/7/27153f2f-998d-42ce-a718-ee08412ba0f6.jpg?1588055146
+  normal: https://cards.scryfall.io/normal/front/2/7/27153f2f-998d-42ce-a718-ee08412ba0f6.jpg?1588055146
+  large: https://cards.scryfall.io/large/front/2/7/27153f2f-998d-42ce-a718-ee08412ba0f6.jpg?1588055146
+  png: https://cards.scryfall.io/png/front/2/7/27153f2f-998d-42ce-a718-ee08412ba0f6.png?1588055146
+  art_crop: https://cards.scryfall.io/art_crop/front/2/7/27153f2f-998d-42ce-a718-ee08412ba0f6.jpg?1588055146
+  border_crop: https://cards.scryfall.io/border_crop/front/2/7/27153f2f-998d-42ce-a718-ee08412ba0f6.jpg?1588055146
+mana_cost: "{1}{W}{U}"
+cmc: 3.0
+type_line: Legendary Creature — Spirit Cleric
+oracle_text: |-
+  Hexproof (This creature can't be the target of spells or abilities your opponents control.)
+  Whenever Geist of Saint Traft attacks, create a 4/4 white Angel creature token with flying that's tapped and attacking. Exile that token at end of combat.
+power: '2'
+toughness: '2'
+colors:
+- U
+- W
+color_identity:
+- U
+- W
+keywords:
+- Hexproof
+all_parts:
+- object: related_card
+  id: '089874c5-4f1e-4d03-a4c5-50f6ac0814dd'
+  component: token
+  name: Angel
+  type_line: Token Creature — Angel
+  uri: https://api.scryfall.com/cards/089874c5-4f1e-4d03-a4c5-50f6ac0814dd
+- object: related_card
+  id: 27153f2f-998d-42ce-a718-ee08412ba0f6
+  component: combo_piece
+  name: Geist of Saint Traft
+  type_line: Legendary Creature — Spirit Cleric
+  uri: https://api.scryfall.com/cards/27153f2f-998d-42ce-a718-ee08412ba0f6
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: restricted
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: true
+reprint: true
+variation: false
+set_id: b3bbcbc0-769d-42df-80f3-924385ac4f67
+set: wmc
+set_name: World Magic Cup Qualifiers
+set_type: promo
+set_uri: https://api.scryfall.com/sets/b3bbcbc0-769d-42df-80f3-924385ac4f67
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Awmc&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/wmc?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/27153f2f-998d-42ce-a718-ee08412ba0f6/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A4304035c-c3e4-4a19-aa1f-92a83d8aed1f&unique=prints
+collector_number: '2014'
+digital: false
+rarity: mythic
+watermark: wotc
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Izzy
+artist_ids:
+- 2c3d2473-ff5d-4309-8194-e0b2def2ab65
+illustration_id: eb588fd7-af5e-437f-8a8c-26dc8ddbf5e7
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- tourney
+edhrec_rank: 5917
+prices:
+  usd: 
+  usd_foil: '7.72'
+  usd_etched: 
+  eur: 
+  eur_foil: '3.95'
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Geist+of+Saint+Traft&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Geist+of+Saint+Traft&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Geist+of+Saint+Traft
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/90868?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Geist+of+Saint+Traft&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Geist+of+Saint+Traft&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
